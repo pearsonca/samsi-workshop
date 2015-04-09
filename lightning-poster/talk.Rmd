@@ -1,7 +1,5 @@
 ---
-title: "Lightning Talk"
-author: "CABP"
-date: "April 9, 2015"
+author: "Carl A B Pearson"
 output: beamer_presentation
 ---
 ## Current Research
