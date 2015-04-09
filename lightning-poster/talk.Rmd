@@ -1,0 +1,37 @@
+---
+title: "Lightning Talk"
+author: "CABP"
+date: "April 9, 2015"
+output: beamer_presentation
+---
+## Current Research
+
+> * TOPICS
+    - Synthetic Populations
+    - Vector Ecology (mostly mosquitos) + Vector Borne Disease
+    - Ebola
+    - Plant Parasites
+    - Flu intervention
+    - Rabies
+> * APPROACHES
+    - general curve model selection / fitting
+    - compartment, network, and agent-based models
+    - MCMC maximum likelihood fitting
+> * TEACHING: Computation in Applied Mathematical Sciences w/ AIMS-Ghana
+```{r, echo=FALSE}
+#notes:
+# syn. pops is simulating activity to make contact tracing
+# vbd work - dengue, jev, chik, focus on seasonality, population surges, vector preference
+# ebola - forecasting, model exploration / fitting, vaccination campaign
+# plant parasites - general non-linear modeling of development as function of environmental conditions
+# flu - cost analysis, absenteeism
+# rabies - multispecies compartment models for north american carnivores
+```
+
+## Toolkit
+
+> * Principle Languages: Scala, R, C++, Python, SQL, Unix CLI 
+> * Secondary: Perl, C, FORTRAN, assorted JavaScript relatives, assorted markup/styling (HTML, CSS, LaTeX, Markdown + weaving, *etc.*)
+> * Assorted libraries / modules / packages in the above
+> * Dev. Tools: atom, Eclipse, RStudio, PyCharm, git + github, Torque-based supercomputer, assorted SQL flavors
+> * Wants: GIS, MPI
